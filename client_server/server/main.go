@@ -30,7 +30,7 @@ func main() {
 	}
 
 	for {
-		// Accepting connection on port 80
+		// Accepting multiple connection on port 80
 		conn, err := listen.Accept()
 		if err != nil {
 			continue
