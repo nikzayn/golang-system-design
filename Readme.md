@@ -14,4 +14,4 @@
 
 #### Know more
 
-- Reach out to this link -
+- Reach out to this link - https://medium.com/@nikhilvaidyar/client-server-model-implementation-in-golang-3e2ee3613c08
